@@ -1,5 +1,6 @@
 console.log("hola carambola")
 
+/*
 const numberSecret = Math.floor(Math.random() * 100 + 1); 
 
 console.log(numberSecret)
@@ -12,4 +13,4 @@ if(numberSecret===numberPlayer){
     console.log('ohh ganaste Felicidades!!!')
 } else {
     console.log('Lo Siento ese no es el numero :( ')
-}
+} */
